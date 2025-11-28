@@ -46,15 +46,6 @@ While transformer-based VLA models represent a major conceptual advance in unify
 
 These findings have important implications for the development and deployment of embodied AI systems in unstructured real-world settings.
 
-## Repository Structure
-```
-├── benchmarking-framework/    # Evaluation framework implementation
-├── experiments/               # Experimental protocols and results
-├── data/                      # Dataset and task configurations
-├── paper/                     # Thesis document (LaTeX + PDF)
-└── docs/                      # Additional documentation
-```
-
 ## Citation
 
 If you use this work in your research, please cite:
